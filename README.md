@@ -15,3 +15,5 @@ then press enter.
 
 Step 6: A new folder has is created and all the code from GitHub is now inside your folder
 
+Live link: https://ut-pro.github.io/porfolio-2.0/
+
